@@ -1,0 +1,2 @@
+week 1
+  Group formed. I wrote some section of the proposal, including Aim and Scope, Deliverables and Intended Operations, Problem domain, Software Technology. I also read some relevant articles about NLP training, Machine Learning and conversational agents.
